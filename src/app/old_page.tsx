@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Link from "next/link";
-import { shortBio } from "@/content/about";
 
 export default function Home() {
   return (
