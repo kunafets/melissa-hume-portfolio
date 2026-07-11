@@ -13,7 +13,7 @@ export default function Home() {
           priority
           className="object-cover"
         />
-        <div className="absolute inset-0 bg-black/10" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />
         <div className="absolute bottom-12 left-6 md:left-12">
           <h1 className="text-4xl md:text-5xl font-light tracking-wide text-white">
             Melissa Hume
