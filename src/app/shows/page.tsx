@@ -26,9 +26,9 @@ const shows: Show[] = [
   },
   {
     name: "Gastown Sunday Set",
-    date: "August 16, 2026",
+    date: "August 9, 2026",
     location: "Gastown, Vancouver",
-    description: "Water Street is turning into a stage, gallery, café patio, dance floor, and open-air playground"
+    description: "Water Street is turning into a stage, gallery, café patio, dance floor, and open-air playground",
     url: "https://gastown.org/sundayset/",
     status: "upcoming",
   },
