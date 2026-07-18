@@ -17,6 +17,15 @@ export default function AboutPage() {
           <p key={index}>{paragraph}</p>
         ))}
       </div>
+      <div className="mt-16 aspect-video">
+        <iframe
+          src="https://player.vimeo.com/video/70832838"
+          className="w-full h-full"
+          allow="autoplay; fullscreen; picture-in-picture"
+          allowFullScreen
+          title="Melissa Hume Pottery"
+        />
+      </div>
     </div>
   );
 }
