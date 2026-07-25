@@ -30,7 +30,7 @@ export default function Home() {
         </p>
       </section>
 
-      {/* Featured Works */}
+{/* Featured Works
       <section className="px-6 md:px-12 py-12 max-w-7xl mx-auto">
         <h2 className="text-sm tracking-widest uppercase text-stone-500 mb-8">
           Selected Works
@@ -47,8 +47,7 @@ export default function Home() {
           View all works
         </Link>
       </section>
-
-      {/* Exhibition */}
+  Exhibition
       <section className="px-6 md:px-12 py-20 bg-stone-100 mt-12">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-sm tracking-widest uppercase text-stone-500 mb-4">
@@ -59,6 +58,7 @@ export default function Home() {
           </p>
         </div>
       </section>
+      */}
 
       {/* Instagram CTA */}
       <section className="px-6 md:px-12 py-20 text-center">

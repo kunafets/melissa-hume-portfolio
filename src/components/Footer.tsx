@@ -11,7 +11,7 @@ export default function Footer() {
         </p>
         <div className="flex gap-6">
           <a
-            href="https://www.instagram.com"
+            href="https://www.instagram.com/melissahumeceramics/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-xs tracking-wide text-stone-400 hover:text-stone-700 uppercase transition-colors"
