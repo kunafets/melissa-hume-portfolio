@@ -15,7 +15,7 @@ export async function POST(request: Request) {
     }
 
     await resend.emails.send({
-      from: "Melissa Hume Website <onboarding@resend.dev>",
+      from: "Melissa Hume Website <website@melissahume.ca>",
       to: "hello@melissahume.ca",
       replyTo: email,
       subject: `Message from ${name} via melissahume.ca`,
